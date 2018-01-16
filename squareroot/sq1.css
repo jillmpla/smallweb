@@ -1,0 +1,12 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: powderblue;
+    font-family: georgia, serif
+    font-size: 200%;
+    border: 1px solid powderblue;
+    padding: 100px;
+    text-align: center
+}
