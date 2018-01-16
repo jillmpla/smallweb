@@ -7,4 +7,4 @@
   <li><a href="http://jillpla.com/squareroot/squareroot.html" target="_blank">Square Root</a> - generates the square root of any number using JavaScript
 </ul>
 <hr>
-Created with: <a href="https://www.jetbrains.com/webstorm/?fromMenu" target="_blank">WebStorm</a> by <a href="https://www.jetbrains.com/" target="_blank">JetBrains</a> && <a href="https://codepen.io/" target="_blank">Codepen</a>
+Created with: <a href="https://www.jetbrains.com/webstorm/?fromMenu" target="_blank">WebStorm</a> by <a href="https://www.jetbrains.com/" target="_blank">JetBrains</a> & <a href="https://codepen.io/" target="_blank">Codepen</a>
