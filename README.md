@@ -5,6 +5,6 @@
 <ul>
   <li><a href="http://jillpla.com/minifib/minifib.html">Mini Fibonacci</a> - generates the Fibonacci sequence using JavaScript
   <li><a href="http://jillpla.com/squareroot/squareroot.html">Square Root</a> - generates the square root of any number using JavaScript
-<ul>
+</ul>
 <hr>
 Created in: <a href="https://www.jetbrains.com/webstorm/?fromMenu">WebStorm</a> by <a href="https://www.jetbrains.com/">JetBrains</a> && <a href="https://codepen.io/">Codepen</a>
