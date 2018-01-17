@@ -8,8 +8,8 @@ html, body {
 }
 
 .intro {
-    height: 100%;
     width: 100%;
+    height: auto;
     margin: auto;
     background-image: url(image/1.jpg);
     background-repeat: no-repeat;
