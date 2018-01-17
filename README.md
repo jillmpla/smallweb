@@ -9,4 +9,5 @@
 </ul>
 <hr>
 Created with: <a href="https://www.jetbrains.com/webstorm/?fromMenu" target="_blank">WebStorm</a> by <a href="https://www.jetbrains.com/" target="_blank">JetBrains</a> & <a href="https://codepen.io/" target="_blank">Codepen</a>
+<br />
 Stock photos used: © <a href="https://unsplash.com/" target="_blank">Unsplash</a>
