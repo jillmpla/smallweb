@@ -1,0 +1,106 @@
+/*import specific Google fonts*/
+@import url ('https://fonts.googleapis.com/css?family=Raleway');
+@import url ('https://fonts.googleapis.com/css?family=Quicksand');
+
+/*reset style - resets style of html elements to a consistent baseline across all browsers*/
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-size: 16px;
+}
+
+/*styles html section called "intro"*/
+.intro{
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    display: table;
+    top: 0;
+    background-size: cover;
+}
+
+/*styles html class called inner*/
+.intro .inner {
+    display: table-cell;
+    vertical-align: middle;
+    width: 100%;
+    max-width: none;
+}
+
+/*styles html class called content*/
+.content{
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/*styles heading 1 (h1)*/
+.content h1{
+    font-family: 'Raleway', sans-serif;
+    color: #FFFFFF;
+    text-shadow: 10px 10px 300px #000; /*hori, vert, blur*/
+    font-size: 500%;
+}
+
+/*styles button html class*/
+.button{
+    border-radius: 9px;
+    font-family: 'Quicksand', sans-serif;
+    color: #FFFFFF;
+    font-size: 150%;
+    padding: 10px 20px; /*top/bottom and left/right*/
+    border: solid #FFFFFF 3px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.button:hover{
+    color:#DEDBD8;
+    border: solid #DEDBD8 3px;
+}
+
+/*styles paragraph tags*/
+p{
+    font-size: 160%;
+    line-height: 210%
+    text-align: justify;
+    margin: 3%;
+    font-family: sans-serif;
+}
+
+/*style for mobile and tablet devices*/
+@media screen and (max-width: 768px){
+    .content h1{
+        font-size: 250%
+    }
+    .button{
+        font-size: 110%;
+        padding: 7px 15px;
+    }
+    p {
+        font-size: 100%;
+        line-height: 160%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
