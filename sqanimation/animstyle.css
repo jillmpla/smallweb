@@ -1,0 +1,27 @@
+#container {
+    width: 500px;
+    height: 500px;
+    background: #407480;
+    position: relative;
+}
+
+#box {
+    width: 50px;
+    height: 50px;
+    background: #589daa;
+    position: absolute;
+}
+
+.button {
+    width: 500px;
+    background-color: #2c4c58;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
