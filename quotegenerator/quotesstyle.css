@@ -46,11 +46,10 @@ input.aButton {
     cursor: pointer;
     font-weight: bold;
     font-size: 150%;
-    background: #8a948f;
     color: #fff;
     border: 1px solid #fff;
     text-shadow: 10px 10px 300px #000; /*hori, vert, blur*/
-    opacity: 0.95;
+    opacity: 1;
 }
 
 input.aButton:focus /*retains white outline even after clicks*/
