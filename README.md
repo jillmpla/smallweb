@@ -3,7 +3,7 @@
 <i>Purpose: </i>Just a bunch of random front-end code.
 <hr>
 <ul>
-  <li><strike>Quote Generator</strike> - uses HTML5, CSS3, JavaScript, JQuery (made into a hybrid <a href="https://play.google.com/store/apps/details?id=a.b.c.mquotes" target="_blank">app</a> & code hidden)
+  <li><strike>Quote Generator</strike> - uses HTML5, CSS3, JavaScript, JQuery (made into a hybrid <a href="https://play.google.com/store/apps/details?id=a.b.c.mquotes" target="_blank">Android app</a> & code hidden)
   <li><a href="http://jillpla.com/landingpage1/landpage1.html" target="_blank">Landing Page 1</a> - full screen, responsive landing page using HTML5/CSS3
   <li><a href="http://jillpla.com/flexbox/flex1.html" target="_blank">Flexbox Navigation</a> - a CSS flexbox navigation menu
   <li><a href="http://jillpla.com/minifib/minifib.html" target="_blank">Mini Fibonacci</a> - generates the Fibonacci sequence using JavaScript
