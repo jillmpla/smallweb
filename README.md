@@ -11,6 +11,4 @@
   <li><a href="http://jillpla.com/sqanimation/squareanimation.html" target="_blank">Square Animation</a> - a primitive square animation using JavaScript
 </ul>
 <hr>
-Created with: <a href="https://www.jetbrains.com/webstorm/" target="_blank">WebStorm</a> by <a href="https://www.jetbrains.com/" target="_blank">JetBrains</a> & <a href="https://codepen.io/" target="_blank">Codepen</a>
-<br />
 Stock photos used: © <a href="https://unsplash.com/" target="_blank">Unsplash</a> & <a href="https://www.pexels.com/" target="_blank">Pexels</a>
